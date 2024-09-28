@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I do some code experiment here (not while i'm cooking).
-Currently learning neural nets.
+I do some code here and currently learning neural nets.
 
 <!--
 **stellameilisa/stellameilisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
