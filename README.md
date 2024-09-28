@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Stella 👋
 
 I do some code here and currently learning neural nets.
 
