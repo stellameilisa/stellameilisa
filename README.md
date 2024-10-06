@@ -1,6 +1,6 @@
 ## Hi, I'm Stella 👋
 
-I do some code here and currently learning neural nets.
+I do some code here..
 
 <!--
 **stellameilisa/stellameilisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
