@@ -2,6 +2,9 @@
 
 🌱 Passionate Learner
 
+Visit my study blog
+stellameilisa.bearblog.dev
+
 ![stellameilisa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stellameilisa&theme=calm&show_icons=true&hide_border=true&layout=compact)
 <!--
 **stellameilisa/stellameilisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
